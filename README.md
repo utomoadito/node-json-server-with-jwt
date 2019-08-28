@@ -1,4 +1,4 @@
-# Node JS With JSON Server adn JWT
+# Node JS With JSON Server and JWT
 
 ## **Configuration This Project**
 
