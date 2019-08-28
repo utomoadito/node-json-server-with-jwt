@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "mock:api": "nodemon server.js"
+  },
+  "dependencies": {
+    "json-server": "^0.15.0",
+    "jsonwebtoken": "^8.5.1",
+    "nodemon": "^1.19.1"
+  }
+}
